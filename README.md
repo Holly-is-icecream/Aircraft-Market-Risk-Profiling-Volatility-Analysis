@@ -10,7 +10,7 @@ This project analyzes volatility and operational risk in the U.S. domestic airli
 
 ## Data Source
 
-The dataset comes from [Kaggle: flights.csv](https://www.kaggle.com/datasets), which contains U.S. domestic flight information for the year 2013, including:
+The dataset comes from https://www.kaggle.com/datasets/mahoora00135/flights, which contains U.S. domestic flight information for the year 2013, including:
 - Carrier code, delay time, departure/arrival times, and flight counts.
 - Timestamps (`time_hour`) for time-series resampling.
 
