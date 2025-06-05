@@ -41,11 +41,3 @@ Time-series chart showing daily standard deviation and 7-day rolling coefficient
 - Weekly flight frequency patterns confirm strong operational seasonality.
 - Delay volatility spikes can highlight market stress periods or external disruptions.
 
-## Next Steps (Optional)
-
-- Extend analysis by adding carrier-specific breakdowns
-- Introduce external variables (e.g., weather, holidays)
-- Build a real-time dashboard using Plotly or Power BI
-
-## Repository Structure
-
